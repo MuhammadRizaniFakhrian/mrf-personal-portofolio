@@ -32,7 +32,7 @@ export default function About() {
         </div>
 
         {/* Main Heading */}
-        <h2 className="mt-12 max-w-4xl text-4xl font-bold uppercase leading-[1.05] tracking-tight text-[#111111] md:mt-16 md:text-6xl">
+        <h2 className="mt-12 max-w-4xl text-5xl font-bold uppercase leading-[0.9] tracking-[-0.06em] text-[#111111] md:mt-16 md:text-7xl">
           About Me.
         </h2>
 

@@ -95,7 +95,7 @@ export default function Skills() {
             return (
               <div
                 key={skill.name}
-                className="group min-h-[140px] border-t border-[#D8D5CA] py-6 transition-colors duration-300 hover:border-[#A5A18F]"
+                className="group min-h-140px border-t border-[#D8D5CA] py-6 transition-colors duration-300 hover:border-[#A5A18F]"
               >
 
                 {/* Skill Number & Icon */}

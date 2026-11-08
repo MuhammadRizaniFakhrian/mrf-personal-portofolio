@@ -70,26 +70,22 @@ export default function Footer() {
                 </a>
 
               </div>
+        
+              {/* GitHub */}
+              <a
+                href="https://github.com/MuhammadRizaniFakhrian"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="group block space-y-1"
+              >
+                <p className="text-[10px] font-medium uppercase tracking-wider text-[#777366]">
+                  GitHub
+                </p>
 
-              {/* LinkedIn */}
-              <div>
-
-                <a
-                  href="https://www.linkedin.com/in/your-muhammadrizanifakhrian"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="group block space-y-1"
-                >
-                  <p className="text-[10px] font-medium uppercase tracking-wider text-[#777366]">
-                    LinkedIn
-                  </p>
-
-                  <p className="break-words text-sm text-[#333333] transition-colors group-hover:text-[#A5A18F]">
-                    Muhammad Rizani Fakhrian
-                  </p>
-                </a>
-
-              </div>
+                <p className="wrap-break-words text-sm text-[#333333] transition-colors group-hover:text-[#A5A18F]">
+                  MuhammadRizaniFakhrian
+                </p>
+              </a>
 
             </div>
 
